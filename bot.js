@@ -1,7 +1,7 @@
 //const bot = new Telegraf('6546550971:AAEI_X6Oa5L0IM8gMLqwjd9oKuTrDrNtQOo');
 const { Telegraf } = require('telegraf');
 
-const bot = new Telegraf('6546550971:AAEI_X6Oa5L0IM8gMLqwjd9oKuTrDrNtQOo');
+const bot = new Telegraf('token');
 
 // Main menu
 const mainMenu = {
