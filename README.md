@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="repository-description">
-        <h1>Nama Repositori: MyProject</h1>
+        <h1>Bot Teleram</h1>
 
         <div class="section">
             <h2>Deskripsi:</h2>
