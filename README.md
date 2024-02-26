@@ -10,10 +10,9 @@
         <div class="section">
             <h2>Deskripsi:</h2>
             <p>
-            Repositori ini berisi kode sumber untuk MyProject. MyProject adalah 
-            aplikasi web sederhana untuk mengelola tugas. Proyek ini dibuat dengan 
-            tujuan manajemen tugas yang efisien dan merupakan implementasi dari 
-            teknologi web modern.
+            Repositori ini berisi kode sumber untuk bot telegram. project adalah 
+            aplikasi bot telegram sederhana untuk menampilkan informasi politeknik negeri lhokseumawe. Proyek ini dibuat dengan 
+            tujuan manajemen informasi yang efisien dengan menggunakan bahasa php.
             </p>
         </div>
     </div>
