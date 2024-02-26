@@ -11,5 +11,6 @@
         aplikasi web sederhana untuk mengelola tugas. Proyek ini dibuat dengan 
         tujuan manajemen tugas yang efisien dan merupakan implementasi dari 
         teknologi web modern. 
+    </div>
 </body>
 </html>
